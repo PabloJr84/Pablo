@@ -1,7 +1,9 @@
-## Olá! Eu sou Pablo 
-
-- ✔ Cursando Sistema de Infomação na Faculdade UNA-Contegem-MG
-- ✔ Focado em  C# .NET e ASP.NET
+## Quem sou eu
+<div>Olá! Meu nome é Pablo. Eu sou estudante de Sistema de Informação na Faculdade Una-Contagem-MG, trabalho na empresa ArcelorMittal como técnico em recebimento metálicos.<br>
+Hoje focado em mudar para area da tecnologia, tenho me esforçado cada dia mais para me tornar um desenvolvedor .</div>
+ 
+- Frase que me motiva todos os dias 
+- ✔ Pense como quiser. Faça o que quiser, mas não culpe ningém por seus resultados
 
 <div>
  <a href="https://github.com/PabloJr84">
