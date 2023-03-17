@@ -4,6 +4,8 @@ Hoje focado em mudar para area da tecnologia, tenho me esforçado cada dia mais 
  
 - Frase que me motiva todos os dias 
 - ✔ Pense como quiser. Faça o que quiser, mas não culpe ningém por seus resultados
+- ✔  O Conhecimento Devolve
+
 
 <div>
  <a href="https://github.com/PabloJr84">
