@@ -1,6 +1,12 @@
 ## Quem sou eu
 <div>Olá! Meu nome é Pablo. Eu sou estudante de Sistema de Informação na Faculdade Una-Contagem-MG, trabalho na empresa ArcelorMittal como técnico em recebimento metálicos.<br>
-Hoje focado em mudar para area da tecnologia, tenho me esforçado cada dia mais para me tornar um desenvolvedor .</div>
+Iniciando no desenvolvimento em 2018, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+
+Possuo foco em desenvolvimento com Javascript, Html, css,  e um pouco de .net e Aspnet dentre outras tecnologias que uso para criar aplicações web/mobile de alto nível e valor.
+
+Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças, pronto para superar qualquer desafio!
+Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçado! :)
+Tenho a convicção que o conhecimento devolve.</div>
  
 - Frase que me motiva todos os dias 
 - ✔ Pense como quiser. Faça o que quiser, mas não culpe ningém por seus resultados
