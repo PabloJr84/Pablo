@@ -18,14 +18,21 @@ Tenho a convicção que o conhecimento devolve.</div>
  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=PabloJr84&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloJr84&layout=compact&langs_cout=16&theme=dark"/>
 </div>
-
  <div style="display: inline_block"><br>
+  <img align="center" alt="David-PowerBI" height="45" width="40" src="https://www.gabo.de/wp-content/uploads/2020/12/Power-BI_256x256.png">
  <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
  <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">                                    <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
  <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
  <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
  <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
  <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="David-Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+ <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <imagem alinhar="centro" alt="David-CSS" altura="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+ 
                                                                                                                                                      
   
  </div><br>
