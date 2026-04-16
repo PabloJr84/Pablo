@@ -1,40 +1,62 @@
-## Quem sou eu
-<div>Olá! Meu nome é Pablo. Eu sou estudante de Sistema de Informação na Faculdade Una-Contagem-MG, trabalho na empresa ArcelorMittal como técnico em recebimento metálicos.<br>
-Iniciando no desenvolvimento em 2018, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+# Olá, eu sou o Pablo! 👋
 
-Possuo foco em desenvolvimento com Javascript, Html, css,  e um pouco de .net e Aspnet dentre outras tecnologias que uso para criar aplicações web/mobile de alto nível e valor.
-
-Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças, pronto para superar qualquer desafio!
-Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçado! :)
-Tenho a convicção que o conhecimento devolve.</div>
- 
-- Frase que me motiva todos os dias 
-- ✔ Pense como quiser. Faça o que quiser, mas não culpe ningém por seus resultados
-- ✔  O Conhecimento Devolve
-
-
+## 🚀 Sobre Mim
 <div>
- <a href="https://github.com/PabloJr84">
- <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=PabloJr84&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloJr84&layout=compact&langs_cout=16&theme=dark"/>
+  Estudante de **Sistemas de Informação** na Una (Contagem-MG) e profissional na **ArcelorMittal**. Atuo como Desenvolvedor e Analista de BI, integrando o time de Hyper e Data.
+  <br><br>
+  Iniciei minha jornada no desenvolvimento em 2018 e hoje sou um entusiasta de tecnologias de nuvem e automação. Tenho foco em criar soluções de alto valor utilizando **Javascript**, **.NET**, **Power BI** e ecossistema **Azure**.
+  <br><br>
+  💡 **Minha filosofia:** Sou otimista, perseverante e esforçado. Acredito fielmente que "O Conhecimento Devolve".
 </div>
- <div style="display: inline_block"><br>
-  <img align="center" alt="David-PowerBI" height="45" width="40" src="https://www.gabo.de/wp-content/uploads/2020/12/Power-BI_256x256.png">
- <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
- <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">                                    <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
- <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
- <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
- <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
- <img align="center" alt="Pablo-C#" height="40" width"40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="David-Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
- <imagem alinhar="centro" alt="David-CSS" altura="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
- 
-                                                                                                                                                     
-  
- </div><br>
-                                                                                                                                             
- <div>
- <a href= "https://www.linkedin.com/in/pablo-junior-assis-4341a5187/" target=_black><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target=_black></a>
- </div>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Cloud & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+**Data & Business Intelligence**
+<p align="left">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+</p>
+
+**Desenvolvimento Fullstack**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java">
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <a href="https://github.com/PabloJr84">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloJr84&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloJr84&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
+
+---
+
+### 💬 Frases que me motivam
+* ✔️ "Pense como quiser. Faça o que quiser, mas não culpe ninguém por seus resultados."
+* ✔️ "O Conhecimento Devolve."
+
+---
+
+### 📫 Conecte-se comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/pablo-junior-assis-4341a5187/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
